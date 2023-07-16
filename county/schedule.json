@@ -22,5 +22,13 @@
       "population",
       "flag"
     ]
+  },
+  "2023-07-17": {
+    "county": "#eastridingofyorkshire",
+    "additional": [
+      "borders",
+      "population",
+      "flag"
+    ]
   }
 }
