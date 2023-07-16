@@ -1,34 +1,34 @@
 {
   "2023-07-14": {
     "county": "#leicester",
-    "additional": [
-      "borders",
-      "population",
-      "flag"
+    "otherFlags": [
+      "#cambridgeshire",
+      "#warwickshire",
+      "#essex"
     ]
   },
   "2023-07-15": {
     "county": "#cambridgeshire",
-    "additional": [
-      "borders",
-      "population",
-      "flag"
+    "otherFlags": [
+      "#cambridgeshire",
+      "#warwickshire",
+      "#essex"
     ]
   },
   "2023-07-16": {
     "county": "#worcestershire",
-    "additional": [
-      "borders",
-      "population",
-      "flag"
+    "otherFlags": [
+      "#cambridgeshire",
+      "#warwickshire",
+      "#essex"
     ]
   },
   "2023-07-17": {
-    "county": "#eastridingofyorkshire",
-    "additional": [
-      "borders",
-      "population",
-      "flag"
+    "county": "#leicester",
+    "otherFlags": [
+      "#rutland",
+      "#bedfordshire",
+      "#berkshire"
     ]
   }
 }
