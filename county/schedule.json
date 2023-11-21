@@ -1,444 +1,4 @@
 {
-  "2023-09-18": {
-    "county": "#gloucestershire",
-    "otherFlags": [
-      "#buckinghamshire",
-      "#cornwall",
-      "#shropshire"
-    ]
-  },
-  "2023-09-19": {
-    "county": "#leicester",
-    "otherFlags": [
-      "#hampshire",
-      "#isleofwight",
-      "#durham"
-    ]
-  },
-  "2023-09-20": {
-    "county": "#southyorkshire",
-    "otherFlags": [
-      "#leicester",
-      "#lancashire",
-      "#cambridgeshire"
-    ]
-  },
-  "2023-09-21": {
-    "county": "#buckinghamshire",
-    "otherFlags": [
-      "#suffolk",
-      "#worcestershire",
-      "#lincolnshire"
-    ]
-  },
-  "2023-09-22": {
-    "county": "#westyorkshire",
-    "otherFlags": [
-      "#rutland",
-      "#gloucestershire",
-      "#lancashire"
-    ]
-  },
-  "2023-09-23": {
-    "county": "#bristol",
-    "otherFlags": [
-      "#cityoflondon",
-      "#gloucestershire",
-      "#somerset"
-    ]
-  },
-  "2023-09-24": {
-    "county": "#warwickshire",
-    "otherFlags": [
-      "#cheshire",
-      "#dorset",
-      "#essex"
-    ]
-  },
-  "2023-09-25": {
-    "county": "#worcestershire",
-    "otherFlags": [
-      "#surrey",
-      "#essex",
-      "#eastridingofyorkshire"
-    ]
-  },
-  "2023-09-26": {
-    "county": "#lancashire",
-    "otherFlags": [
-      "#wiltshire",
-      "#derbyshire",
-      "#eastridingofyorkshire"
-    ]
-  },
-  "2023-09-27": {
-    "county": "#herefordshire",
-    "otherFlags": [
-      "#hertfordshire",
-      "#cityoflondon",
-      "#buckinghamshire"
-    ]
-  },
-  "2023-09-28": {
-    "county": "#hertfordshire",
-    "otherFlags": [
-      "#isleofwight",
-      "#cheshire",
-      "#oxfordshire"
-    ]
-  },
-  "2023-09-29": {
-    "county": "#shropshire",
-    "otherFlags": [
-      "#lancashire",
-      "#berkshire",
-      "#isleofwight"
-    ]
-  },
-  "2023-09-30": {
-    "county": "#tyneandwear",
-    "otherFlags": [
-      "#durham",
-      "#oxfordshire",
-      "#lancashire"
-    ]
-  },
-  "2023-10-01": {
-    "county": "#cornwall",
-    "otherFlags": [
-      "#eastridingofyorkshire",
-      "#shropshire",
-      "#norfolk"
-    ]
-  },
-  "2023-10-02": {
-    "county": "#eastridingofyorkshire",
-    "otherFlags": [
-      "#essex",
-      "#nottinghamshire",
-      "#buckinghamshire"
-    ]
-  },
-  "2023-10-03": {
-    "county": "#durham",
-    "otherFlags": [
-      "#dorset",
-      "#hampshire",
-      "#lincolnshire"
-    ]
-  },
-  "2023-10-04": {
-    "county": "#northamptonshire",
-    "otherFlags": [
-      "#lancashire",
-      "#cornwall",
-      "#shropshire"
-    ]
-  },
-  "2023-10-05": {
-    "county": "#kent",
-    "otherFlags": [
-      "#herefordshire",
-      "#durham",
-      "#nottinghamshire"
-    ]
-  },
-  "2023-10-06": {
-    "county": "#lincolnshire",
-    "otherFlags": [
-      "#lancashire",
-      "#somerset",
-      "#nottinghamshire"
-    ]
-  },
-  "2023-10-07": {
-    "county": "#eastsussex",
-    "otherFlags": [
-      "#essex",
-      "#surrey",
-      "#hertfordshire"
-    ]
-  },
-  "2023-10-08": {
-    "county": "#suffolk",
-    "otherFlags": [
-      "#hampshire",
-      "#derbyshire",
-      "#norfolk"
-    ]
-  },
-  "2023-10-09": {
-    "county": "#rutland",
-    "otherFlags": [
-      "#derbyshire",
-      "#nottinghamshire",
-      "#wiltshire"
-    ]
-  },
-  "2023-10-10": {
-    "county": "#cambridgeshire",
-    "otherFlags": [
-      "#herefordshire",
-      "#northumberland",
-      "#northamptonshire"
-    ]
-  },
-  "2023-10-11": {
-    "county": "#hampshire",
-    "otherFlags": [
-      "#lancashire",
-      "#essex",
-      "#rutland"
-    ]
-  },
-  "2023-10-12": {
-    "county": "#northyorkshire",
-    "otherFlags": [
-      "#cityoflondon",
-      "#rutland",
-      "#shropshire"
-    ]
-  },
-  "2023-10-13": {
-    "county": "#bedfordshire",
-    "otherFlags": [
-      "#surrey",
-      "#norfolk",
-      "#devon"
-    ]
-  },
-  "2023-10-14": {
-    "county": "#buckinghamshire",
-    "otherFlags": [
-      "#rutland",
-      "#derbyshire",
-      "#worcestershire"
-    ]
-  },
-  "2023-10-15": {
-    "county": "#lancashire",
-    "otherFlags": [
-      "#northamptonshire",
-      "#gloucestershire",
-      "#wiltshire"
-    ]
-  },
-  "2023-10-16": {
-    "county": "#essex",
-    "otherFlags": [
-      "#kent",
-      "#cheshire",
-      "#eastridingofyorkshire"
-    ]
-  },
-  "2023-10-17": {
-    "county": "#gloucestershire",
-    "otherFlags": [
-      "#bedfordshire",
-      "#kent",
-      "#herefordshire"
-    ]
-  },
-  "2023-10-18": {
-    "county": "#wiltshire",
-    "otherFlags": [
-      "#somerset",
-      "#suffolk",
-      "#nottinghamshire"
-    ]
-  },
-  "2023-10-19": {
-    "county": "#norfolk",
-    "otherFlags": [
-      "#somerset",
-      "#hertfordshire",
-      "#shropshire"
-    ]
-  },
-  "2023-10-20": {
-    "county": "#northamptonshire",
-    "otherFlags": [
-      "#nottinghamshire",
-      "#gloucestershire",
-      "#buckinghamshire"
-    ]
-  },
-  "2023-10-21": {
-    "county": "#merseyside",
-    "otherFlags": [
-      "#durham",
-      "#derbyshire",
-      "#wiltshire"
-    ]
-  },
-  "2023-10-22": {
-    "county": "#kent",
-    "otherFlags": [
-      "#warwickshire",
-      "#hampshire",
-      "#berkshire"
-    ]
-  },
-  "2023-10-23": {
-    "county": "#westyorkshire",
-    "otherFlags": [
-      "#dorset",
-      "#somerset",
-      "#cornwall"
-    ]
-  },
-  "2023-10-24": {
-    "county": "#westmidlands",
-    "otherFlags": [
-      "#oxfordshire",
-      "#cheshire",
-      "#eastridingofyorkshire"
-    ]
-  },
-  "2023-10-25": {
-    "county": "#staffordshire",
-    "otherFlags": [
-      "#nottinghamshire",
-      "#somerset",
-      "#oxfordshire"
-    ]
-  },
-  "2023-10-26": {
-    "county": "#hertfordshire",
-    "otherFlags": [
-      "#berkshire",
-      "#cheshire",
-      "#lancashire"
-    ]
-  },
-  "2023-10-27": {
-    "county": "#hampshire",
-    "otherFlags": [
-      "#warwickshire",
-      "#somerset",
-      "#durham"
-    ]
-  },
-  "2023-10-28": {
-    "county": "#durham",
-    "otherFlags": [
-      "#northamptonshire",
-      "#cheshire",
-      "#warwickshire"
-    ]
-  },
-  "2023-10-29": {
-    "county": "#rutland",
-    "otherFlags": [
-      "#northamptonshire",
-      "#cornwall",
-      "#worcestershire"
-    ]
-  },
-  "2023-10-30": {
-    "county": "#somerset",
-    "otherFlags": [
-      "#northumberland",
-      "#surrey",
-      "#durham"
-    ]
-  },
-  "2023-10-31": {
-    "county": "#surrey",
-    "otherFlags": [
-      "#lincolnshire",
-      "#bedfordshire",
-      "#suffolk"
-    ]
-  },
-  "2023-11-01": {
-    "county": "#westsussex",
-    "otherFlags": [
-      "#isleofwight",
-      "#eastridingofyorkshire",
-      "#worcestershire"
-    ]
-  },
-  "2023-11-02": {
-    "county": "#derbyshire",
-    "otherFlags": [
-      "#dorset",
-      "#northumberland",
-      "#hertfordshire"
-    ]
-  },
-  "2023-11-03": {
-    "county": "#worcestershire",
-    "otherFlags": [
-      "#warwickshire",
-      "#lincolnshire",
-      "#dorset"
-    ]
-  },
-  "2023-11-04": {
-    "county": "#eastsussex",
-    "otherFlags": [
-      "#gloucestershire",
-      "#northamptonshire",
-      "#kent"
-    ]
-  },
-  "2023-11-05": {
-    "county": "#warwickshire",
-    "otherFlags": [
-      "#cityoflondon",
-      "#essex",
-      "#leicester"
-    ]
-  },
-  "2023-11-06": {
-    "county": "#merseyside",
-    "otherFlags": [
-      "#rutland",
-      "#isleofwight",
-      "#wiltshire"
-    ]
-  },
-  "2023-11-07": {
-    "county": "#suffolk",
-    "otherFlags": [
-      "#dorset",
-      "#gloucestershire",
-      "#nottinghamshire"
-    ]
-  },
-  "2023-11-08": {
-    "county": "#bristol",
-    "otherFlags": [
-      "#lancashire",
-      "#northumberland",
-      "#nottinghamshire"
-    ]
-  },
-  "2023-11-09": {
-    "county": "#westyorkshire",
-    "otherFlags": [
-      "#cheshire",
-      "#leicester",
-      "#lincolnshire"
-    ]
-  },
-  "2023-11-10": {
-    "county": "#cumbria",
-    "otherFlags": [
-      "#herefordshire",
-      "#warwickshire",
-      "#lincolnshire"
-    ]
-  },
-  "2023-11-11": {
-    "county": "#shropshire",
-    "otherFlags": [
-      "#bedfordshire",
-      "#nottinghamshire",
-      "#dorset"
-    ]
-  },
   "2023-11-12": {
     "county": "#northumberland",
     "otherFlags": [
@@ -509,6 +69,998 @@
       "#cityoflondon",
       "#surrey",
       "#derbyshire"
+    ]
+  },
+  "2023-11-21": {
+    "county": "#hertfordshire",
+    "otherFlags": [
+      "#buckinghamshire",
+      "#northumberland",
+      "#somerset"
+    ]
+  },
+  "2023-11-22": {
+    "county": "#cornwall",
+    "otherFlags": [
+      "#isleofwight",
+      "#worcestershire",
+      "#leicester"
+    ]
+  },
+  "2023-11-23": {
+    "county": "#merseyside",
+    "otherFlags": [
+      "#eastridingofyorkshire",
+      "#worcestershire",
+      "#lincolnshire"
+    ]
+  },
+  "2023-11-24": {
+    "county": "#lincolnshire",
+    "otherFlags": [
+      "#shropshire",
+      "#nottinghamshire",
+      "#isleofwight"
+    ]
+  },
+  "2023-11-25": {
+    "county": "#hampshire",
+    "otherFlags": [
+      "#cambridgeshire",
+      "#kent",
+      "#northamptonshire"
+    ]
+  },
+  "2023-11-26": {
+    "county": "#greatermanchester",
+    "otherFlags": [
+      "#cambridgeshire",
+      "#shropshire",
+      "#staffordshire"
+    ]
+  },
+  "2023-11-27": {
+    "county": "#leicester",
+    "otherFlags": [
+      "#worcestershire",
+      "#lincolnshire",
+      "#buckinghamshire"
+    ]
+  },
+  "2023-11-28": {
+    "county": "#northamptonshire",
+    "otherFlags": [
+      "#somerset",
+      "#derbyshire",
+      "#rutland"
+    ]
+  },
+  "2023-11-29": {
+    "county": "#bristol",
+    "otherFlags": [
+      "#suffolk",
+      "#herefordshire",
+      "#isleofwight"
+    ]
+  },
+  "2023-11-30": {
+    "county": "#norfolk",
+    "otherFlags": [
+      "#northumberland",
+      "#lincolnshire",
+      "#northamptonshire"
+    ]
+  },
+  "2023-12-01": {
+    "county": "#southyorkshire",
+    "otherFlags": [
+      "#nottinghamshire",
+      "#eastridingofyorkshire",
+      "#staffordshire"
+    ]
+  },
+  "2023-12-02": {
+    "county": "#rutland",
+    "otherFlags": [
+      "#somerset",
+      "#cheshire",
+      "#hampshire"
+    ]
+  },
+  "2023-12-03": {
+    "county": "#durham",
+    "otherFlags": [
+      "#isleofwight",
+      "#suffolk",
+      "#kent"
+    ]
+  },
+  "2023-12-04": {
+    "county": "#wiltshire",
+    "otherFlags": [
+      "#norfolk",
+      "#cheshire",
+      "#derbyshire"
+    ]
+  },
+  "2023-12-05": {
+    "county": "#essex",
+    "otherFlags": [
+      "#cheshire",
+      "#worcestershire",
+      "#lancashire"
+    ]
+  },
+  "2023-12-06": {
+    "county": "#cumbria",
+    "otherFlags": [
+      "#cambridgeshire",
+      "#dorset",
+      "#essex"
+    ]
+  },
+  "2023-12-07": {
+    "county": "#northumberland",
+    "otherFlags": [
+      "#worcestershire",
+      "#leicester",
+      "#durham"
+    ]
+  },
+  "2023-12-08": {
+    "county": "#cheshire",
+    "otherFlags": [
+      "#berkshire",
+      "#kent",
+      "#warwickshire"
+    ]
+  },
+  "2023-12-09": {
+    "county": "#hertfordshire",
+    "otherFlags": [
+      "#cheshire",
+      "#cambridgeshire",
+      "#herefordshire"
+    ]
+  },
+  "2023-12-10": {
+    "county": "#warwickshire",
+    "otherFlags": [
+      "#oxfordshire",
+      "#buckinghamshire",
+      "#cornwall"
+    ]
+  },
+  "2023-12-11": {
+    "county": "#dorset",
+    "otherFlags": [
+      "#oxfordshire",
+      "#shropshire",
+      "#eastridingofyorkshire"
+    ]
+  },
+  "2023-12-12": {
+    "county": "#worcestershire",
+    "otherFlags": [
+      "#nottinghamshire",
+      "#cheshire",
+      "#durham"
+    ]
+  },
+  "2023-12-13": {
+    "county": "#herefordshire",
+    "otherFlags": [
+      "#somerset",
+      "#hampshire",
+      "#bedfordshire"
+    ]
+  },
+  "2023-12-14": {
+    "county": "#lancashire",
+    "otherFlags": [
+      "#buckinghamshire",
+      "#dorset",
+      "#hertfordshire"
+    ]
+  },
+  "2023-12-15": {
+    "county": "#surrey",
+    "otherFlags": [
+      "#warwickshire",
+      "#worcestershire",
+      "#hampshire"
+    ]
+  },
+  "2023-12-16": {
+    "county": "#derbyshire",
+    "otherFlags": [
+      "#worcestershire",
+      "#somerset",
+      "#staffordshire"
+    ]
+  },
+  "2023-12-17": {
+    "county": "#devon",
+    "otherFlags": [
+      "#bedfordshire",
+      "#essex",
+      "#lincolnshire"
+    ]
+  },
+  "2023-12-18": {
+    "county": "#shropshire",
+    "otherFlags": [
+      "#surrey",
+      "#wiltshire",
+      "#cambridgeshire"
+    ]
+  },
+  "2023-12-19": {
+    "county": "#durham",
+    "otherFlags": [
+      "#leicester",
+      "#cheshire",
+      "#wiltshire"
+    ]
+  },
+  "2023-12-20": {
+    "county": "#southyorkshire",
+    "otherFlags": [
+      "#lancashire",
+      "#buckinghamshire",
+      "#somerset"
+    ]
+  },
+  "2023-12-21": {
+    "county": "#nottinghamshire",
+    "otherFlags": [
+      "#northumberland",
+      "#cambridgeshire",
+      "#cheshire"
+    ]
+  },
+  "2023-12-22": {
+    "county": "#greatermanchester",
+    "otherFlags": [
+      "#gloucestershire",
+      "#suffolk",
+      "#warwickshire"
+    ]
+  },
+  "2023-12-23": {
+    "county": "#tyneandwear",
+    "otherFlags": [
+      "#derbyshire",
+      "#buckinghamshire",
+      "#cheshire"
+    ]
+  },
+  "2023-12-24": {
+    "county": "#somerset",
+    "otherFlags": [
+      "#suffolk",
+      "#buckinghamshire",
+      "#leicester"
+    ]
+  },
+  "2023-12-25": {
+    "county": "#essex",
+    "otherFlags": [
+      "#kent",
+      "#oxfordshire",
+      "#suffolk"
+    ]
+  },
+  "2023-12-26": {
+    "county": "#cheshire",
+    "otherFlags": [
+      "#gloucestershire",
+      "#northumberland",
+      "#cambridgeshire"
+    ]
+  },
+  "2023-12-27": {
+    "county": "#cambridgeshire",
+    "otherFlags": [
+      "#surrey",
+      "#gloucestershire",
+      "#staffordshire"
+    ]
+  },
+  "2023-12-28": {
+    "county": "#warwickshire",
+    "otherFlags": [
+      "#gloucestershire",
+      "#kent",
+      "#wiltshire"
+    ]
+  },
+  "2023-12-29": {
+    "county": "#merseyside",
+    "otherFlags": [
+      "#buckinghamshire",
+      "#nottinghamshire",
+      "#hertfordshire"
+    ]
+  },
+  "2023-12-30": {
+    "county": "#northyorkshire",
+    "otherFlags": [
+      "#surrey",
+      "#northumberland",
+      "#cambridgeshire"
+    ]
+  },
+  "2023-12-31": {
+    "county": "#herefordshire",
+    "otherFlags": [
+      "#isleofwight",
+      "#berkshire",
+      "#northumberland"
+    ]
+  },
+  "2024-01-01": {
+    "county": "#bedfordshire",
+    "otherFlags": [
+      "#durham",
+      "#kent",
+      "#cheshire"
+    ]
+  },
+  "2024-01-02": {
+    "county": "#surrey",
+    "otherFlags": [
+      "#cheshire",
+      "#rutland",
+      "#eastridingofyorkshire"
+    ]
+  },
+  "2024-01-03": {
+    "county": "#lancashire",
+    "otherFlags": [
+      "#kent",
+      "#derbyshire",
+      "#cheshire"
+    ]
+  },
+  "2024-01-04": {
+    "county": "#northumberland",
+    "otherFlags": [
+      "#gloucestershire",
+      "#cityoflondon",
+      "#eastridingofyorkshire"
+    ]
+  },
+  "2024-01-05": {
+    "county": "#norfolk",
+    "otherFlags": [
+      "#lancashire",
+      "#kent",
+      "#nottinghamshire"
+    ]
+  },
+  "2024-01-06": {
+    "county": "#suffolk",
+    "otherFlags": [
+      "#buckinghamshire",
+      "#kent",
+      "#devon"
+    ]
+  },
+  "2024-01-07": {
+    "county": "#hampshire",
+    "otherFlags": [
+      "#oxfordshire",
+      "#isleofwight",
+      "#shropshire"
+    ]
+  },
+  "2024-01-08": {
+    "county": "#hertfordshire",
+    "otherFlags": [
+      "#suffolk",
+      "#northamptonshire",
+      "#devon"
+    ]
+  },
+  "2024-01-09": {
+    "county": "#derbyshire",
+    "otherFlags": [
+      "#bedfordshire",
+      "#essex",
+      "#cityoflondon"
+    ]
+  },
+  "2024-01-10": {
+    "county": "#gloucestershire",
+    "otherFlags": [
+      "#leicester",
+      "#hertfordshire",
+      "#devon"
+    ]
+  },
+  "2024-01-11": {
+    "county": "#shropshire",
+    "otherFlags": [
+      "#berkshire",
+      "#suffolk",
+      "#leicester"
+    ]
+  },
+  "2024-01-12": {
+    "county": "#dorset",
+    "otherFlags": [
+      "#durham",
+      "#northamptonshire",
+      "#warwickshire"
+    ]
+  },
+  "2024-01-13": {
+    "county": "#cambridgeshire",
+    "otherFlags": [
+      "#leicester",
+      "#gloucestershire",
+      "#oxfordshire"
+    ]
+  },
+  "2024-01-14": {
+    "county": "#oxfordshire",
+    "otherFlags": [
+      "#nottinghamshire",
+      "#shropshire",
+      "#northumberland"
+    ]
+  },
+  "2024-01-15": {
+    "county": "#northyorkshire",
+    "otherFlags": [
+      "#warwickshire",
+      "#norfolk",
+      "#surrey"
+    ]
+  },
+  "2024-01-16": {
+    "county": "#eastridingofyorkshire",
+    "otherFlags": [
+      "#cityoflondon",
+      "#leicester",
+      "#rutland"
+    ]
+  },
+  "2024-01-17": {
+    "county": "#herefordshire",
+    "otherFlags": [
+      "#staffordshire",
+      "#derbyshire",
+      "#wiltshire"
+    ]
+  },
+  "2024-01-18": {
+    "county": "#cumbria",
+    "otherFlags": [
+      "#lancashire",
+      "#isleofwight",
+      "#staffordshire"
+    ]
+  },
+  "2024-01-19": {
+    "county": "#buckinghamshire",
+    "otherFlags": [
+      "#derbyshire",
+      "#suffolk",
+      "#gloucestershire"
+    ]
+  },
+  "2024-01-20": {
+    "county": "#bedfordshire",
+    "otherFlags": [
+      "#isleofwight",
+      "#rutland",
+      "#leicester"
+    ]
+  },
+  "2024-01-21": {
+    "county": "#leicester",
+    "otherFlags": [
+      "#isleofwight",
+      "#bedfordshire",
+      "#staffordshire"
+    ]
+  },
+  "2024-01-22": {
+    "county": "#kent",
+    "otherFlags": [
+      "#wiltshire",
+      "#lincolnshire",
+      "#cheshire"
+    ]
+  },
+  "2024-01-23": {
+    "county": "#staffordshire",
+    "otherFlags": [
+      "#nottinghamshire",
+      "#somerset",
+      "#surrey"
+    ]
+  },
+  "2024-01-24": {
+    "county": "#norfolk",
+    "otherFlags": [
+      "#cornwall",
+      "#northumberland",
+      "#dorset"
+    ]
+  },
+  "2024-01-25": {
+    "county": "#berkshire",
+    "otherFlags": [
+      "#cambridgeshire",
+      "#leicester",
+      "#derbyshire"
+    ]
+  },
+  "2024-01-26": {
+    "county": "#westmidlands",
+    "otherFlags": [
+      "#cornwall",
+      "#suffolk",
+      "#berkshire"
+    ]
+  },
+  "2024-01-27": {
+    "county": "#gloucestershire",
+    "otherFlags": [
+      "#isleofwight",
+      "#durham",
+      "#derbyshire"
+    ]
+  },
+  "2024-01-28": {
+    "county": "#nottinghamshire",
+    "otherFlags": [
+      "#essex",
+      "#somerset",
+      "#isleofwight"
+    ]
+  },
+  "2024-01-29": {
+    "county": "#lancashire",
+    "otherFlags": [
+      "#dorset",
+      "#eastridingofyorkshire",
+      "#leicester"
+    ]
+  },
+  "2024-01-30": {
+    "county": "#durham",
+    "otherFlags": [
+      "#derbyshire",
+      "#eastridingofyorkshire",
+      "#isleofwight"
+    ]
+  },
+  "2024-01-31": {
+    "county": "#hertfordshire",
+    "otherFlags": [
+      "#oxfordshire",
+      "#herefordshire",
+      "#cornwall"
+    ]
+  },
+  "2024-02-01": {
+    "county": "#surrey",
+    "otherFlags": [
+      "#herefordshire",
+      "#northumberland",
+      "#cheshire"
+    ]
+  },
+  "2024-02-02": {
+    "county": "#westsussex",
+    "otherFlags": [
+      "#herefordshire",
+      "#cheshire",
+      "#shropshire"
+    ]
+  },
+  "2024-02-03": {
+    "county": "#bristol",
+    "otherFlags": [
+      "#dorset",
+      "#bedfordshire",
+      "#devon"
+    ]
+  },
+  "2024-02-04": {
+    "county": "#suffolk",
+    "otherFlags": [
+      "#hertfordshire",
+      "#eastridingofyorkshire",
+      "#bedfordshire"
+    ]
+  },
+  "2024-02-05": {
+    "county": "#shropshire",
+    "otherFlags": [
+      "#bedfordshire",
+      "#leicester",
+      "#lancashire"
+    ]
+  },
+  "2024-02-06": {
+    "county": "#eastsussex",
+    "otherFlags": [
+      "#staffordshire",
+      "#cornwall",
+      "#cityoflondon"
+    ]
+  },
+  "2024-02-07": {
+    "county": "#northyorkshire",
+    "otherFlags": [
+      "#kent",
+      "#suffolk",
+      "#rutland"
+    ]
+  },
+  "2024-02-08": {
+    "county": "#rutland",
+    "otherFlags": [
+      "#cheshire",
+      "#durham",
+      "#hampshire"
+    ]
+  },
+  "2024-02-09": {
+    "county": "#merseyside",
+    "otherFlags": [
+      "#eastridingofyorkshire",
+      "#nottinghamshire",
+      "#cambridgeshire"
+    ]
+  },
+  "2024-02-10": {
+    "county": "#northamptonshire",
+    "otherFlags": [
+      "#lincolnshire",
+      "#eastridingofyorkshire",
+      "#cornwall"
+    ]
+  },
+  "2024-02-11": {
+    "county": "#worcestershire",
+    "otherFlags": [
+      "#essex",
+      "#shropshire",
+      "#suffolk"
+    ]
+  },
+  "2024-02-12": {
+    "county": "#southyorkshire",
+    "otherFlags": [
+      "#isleofwight",
+      "#lancashire",
+      "#essex"
+    ]
+  },
+  "2024-02-13": {
+    "county": "#warwickshire",
+    "otherFlags": [
+      "#lancashire",
+      "#hertfordshire",
+      "#herefordshire"
+    ]
+  },
+  "2024-02-14": {
+    "county": "#cambridgeshire",
+    "otherFlags": [
+      "#gloucestershire",
+      "#derbyshire",
+      "#cheshire"
+    ]
+  },
+  "2024-02-15": {
+    "county": "#lancashire",
+    "otherFlags": [
+      "#oxfordshire",
+      "#isleofwight",
+      "#cambridgeshire"
+    ]
+  },
+  "2024-02-16": {
+    "county": "#northumberland",
+    "otherFlags": [
+      "#oxfordshire",
+      "#berkshire",
+      "#devon"
+    ]
+  },
+  "2024-02-17": {
+    "county": "#cheshire",
+    "otherFlags": [
+      "#surrey",
+      "#isleofwight",
+      "#somerset"
+    ]
+  },
+  "2024-02-18": {
+    "county": "#westyorkshire",
+    "otherFlags": [
+      "#hertfordshire",
+      "#eastridingofyorkshire",
+      "#surrey"
+    ]
+  },
+  "2024-02-19": {
+    "county": "#norfolk",
+    "otherFlags": [
+      "#wiltshire",
+      "#derbyshire",
+      "#northamptonshire"
+    ]
+  },
+  "2024-02-20": {
+    "county": "#greatermanchester",
+    "otherFlags": [
+      "#northumberland",
+      "#hertfordshire",
+      "#wiltshire"
+    ]
+  },
+  "2024-02-21": {
+    "county": "#derbyshire",
+    "otherFlags": [
+      "#eastridingofyorkshire",
+      "#norfolk",
+      "#surrey"
+    ]
+  },
+  "2024-02-22": {
+    "county": "#essex",
+    "otherFlags": [
+      "#lancashire",
+      "#cityoflondon",
+      "#devon"
+    ]
+  },
+  "2024-02-23": {
+    "county": "#berkshire",
+    "otherFlags": [
+      "#suffolk",
+      "#dorset",
+      "#bedfordshire"
+    ]
+  },
+  "2024-02-24": {
+    "county": "#gloucestershire",
+    "otherFlags": [
+      "#staffordshire",
+      "#worcestershire",
+      "#northumberland"
+    ]
+  },
+  "2024-02-25": {
+    "county": "#lincolnshire",
+    "otherFlags": [
+      "#berkshire",
+      "#wiltshire",
+      "#surrey"
+    ]
+  },
+  "2024-02-26": {
+    "county": "#greaterlondon",
+    "otherFlags": [
+      "#essex",
+      "#worcestershire",
+      "#rutland"
+    ]
+  },
+  "2024-02-27": {
+    "county": "#devon",
+    "otherFlags": [
+      "#cornwall",
+      "#staffordshire",
+      "#somerset"
+    ]
+  },
+  "2024-02-28": {
+    "county": "#wiltshire",
+    "otherFlags": [
+      "#shropshire",
+      "#berkshire",
+      "#warwickshire"
+    ]
+  },
+  "2024-02-29": {
+    "county": "#suffolk",
+    "otherFlags": [
+      "#cheshire",
+      "#cityoflondon",
+      "#bedfordshire"
+    ]
+  },
+  "2024-03-01": {
+    "county": "#isleofwight",
+    "otherFlags": [
+      "#norfolk",
+      "#berkshire",
+      "#dorset"
+    ]
+  },
+  "2024-03-02": {
+    "county": "#southyorkshire",
+    "otherFlags": [
+      "#lancashire",
+      "#hampshire",
+      "#kent"
+    ]
+  },
+  "2024-03-03": {
+    "county": "#worcestershire",
+    "otherFlags": [
+      "#staffordshire",
+      "#lincolnshire",
+      "#leicester"
+    ]
+  },
+  "2024-03-04": {
+    "county": "#leicester",
+    "otherFlags": [
+      "#lancashire",
+      "#northumberland",
+      "#hampshire"
+    ]
+  },
+  "2024-03-05": {
+    "county": "#eastridingofyorkshire",
+    "otherFlags": [
+      "#hertfordshire",
+      "#hampshire",
+      "#norfolk"
+    ]
+  },
+  "2024-03-06": {
+    "county": "#tyneandwear",
+    "otherFlags": [
+      "#dorset",
+      "#bedfordshire",
+      "#durham"
+    ]
+  },
+  "2024-03-07": {
+    "county": "#herefordshire",
+    "otherFlags": [
+      "#cornwall",
+      "#dorset",
+      "#cheshire"
+    ]
+  },
+  "2024-03-08": {
+    "county": "#eastsussex",
+    "otherFlags": [
+      "#somerset",
+      "#cornwall",
+      "#cheshire"
+    ]
+  },
+  "2024-03-09": {
+    "county": "#hertfordshire",
+    "otherFlags": [
+      "#wiltshire",
+      "#dorset",
+      "#isleofwight"
+    ]
+  },
+  "2024-03-10": {
+    "county": "#somerset",
+    "otherFlags": [
+      "#worcestershire",
+      "#suffolk",
+      "#derbyshire"
+    ]
+  },
+  "2024-03-11": {
+    "county": "#northumberland",
+    "otherFlags": [
+      "#hampshire",
+      "#devon",
+      "#hertfordshire"
+    ]
+  },
+  "2024-03-12": {
+    "county": "#nottinghamshire",
+    "otherFlags": [
+      "#bedfordshire",
+      "#cambridgeshire",
+      "#suffolk"
+    ]
+  },
+  "2024-03-13": {
+    "county": "#westsussex",
+    "otherFlags": [
+      "#hampshire",
+      "#warwickshire",
+      "#staffordshire"
+    ]
+  },
+  "2024-03-14": {
+    "county": "#northamptonshire",
+    "otherFlags": [
+      "#warwickshire",
+      "#gloucestershire",
+      "#bedfordshire"
+    ]
+  },
+  "2024-03-15": {
+    "county": "#greatermanchester",
+    "otherFlags": [
+      "#wiltshire",
+      "#cityoflondon",
+      "#norfolk"
+    ]
+  },
+  "2024-03-16": {
+    "county": "#lincolnshire",
+    "otherFlags": [
+      "#northamptonshire",
+      "#suffolk",
+      "#rutland"
+    ]
+  },
+  "2024-03-17": {
+    "county": "#isleofwight",
+    "otherFlags": [
+      "#cheshire",
+      "#somerset",
+      "#bedfordshire"
+    ]
+  },
+  "2024-03-18": {
+    "county": "#warwickshire",
+    "otherFlags": [
+      "#somerset",
+      "#lancashire",
+      "#rutland"
+    ]
+  },
+  "2024-03-19": {
+    "county": "#kent",
+    "otherFlags": [
+      "#somerset",
+      "#shropshire",
+      "#warwickshire"
+    ]
+  },
+  "2024-03-20": {
+    "county": "#leicester",
+    "otherFlags": [
+      "#cornwall",
+      "#oxfordshire",
+      "#hampshire"
+    ]
+  },
+  "2024-03-21": {
+    "county": "#greaterlondon",
+    "otherFlags": [
+      "#somerset",
+      "#cityoflondon",
+      "#dorset"
+    ]
+  },
+  "2024-03-22": {
+    "county": "#surrey",
+    "otherFlags": [
+      "#derbyshire",
+      "#cheshire",
+      "#berkshire"
+    ]
+  },
+  "2024-03-23": {
+    "county": "#westyorkshire",
+    "otherFlags": [
+      "#norfolk",
+      "#nottinghamshire",
+      "#northamptonshire"
     ]
   }
 }
